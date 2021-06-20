@@ -1,5 +1,6 @@
 <template>
   <div>
+    <NuxtLink to="/">top</NuxtLink>
     <Nuxt />
   </div>
 </template>
