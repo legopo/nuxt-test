@@ -5,6 +5,7 @@
       <li><NuxtLink to="/component">component</NuxtLink></li>
       <li><NuxtLink to="/bind-customize">bind-customize</NuxtLink></li>
       <li><NuxtLink to="/event">event</NuxtLink></li>
+      <li><NuxtLink to="/forms">forms</NuxtLink></li>
       <li><NuxtLink to="/about">about</NuxtLink></li>
     </ul>
   </div>
